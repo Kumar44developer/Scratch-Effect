@@ -27,5 +27,7 @@ span{
     position: absolute;
     width: 220px;
     height: 220px;
+    background: #333;
+    pointer-events: none;
 
         
