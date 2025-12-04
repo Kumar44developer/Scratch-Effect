@@ -29,5 +29,6 @@ span{
     height: 220px;
     background: #333;
     pointer-events: none;
+     border-radius: 50%;
 
         
