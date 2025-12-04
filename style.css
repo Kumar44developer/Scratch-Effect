@@ -16,6 +16,7 @@ body{
         #000 100%
     ),
   repeating-linear-gradient(90deg, #aaa 0%, red 50%, red 50% , #555 100%);
+      background-size: 30px 30px;
 
 
         
