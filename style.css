@@ -22,5 +22,8 @@ body{
     
 }
 
+span{
+    display: block;
+    position: absolute;
 
         
