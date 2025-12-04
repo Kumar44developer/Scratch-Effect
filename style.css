@@ -25,5 +25,7 @@ body{
 span{
     display: block;
     position: absolute;
+    width: 220px;
+    height: 220px;
 
         
