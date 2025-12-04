@@ -31,5 +31,6 @@ span{
     pointer-events: none;
      border-radius: 50%;
     background: url("https://cdn.pixabay.com/photo/2023/10/27/17/04/dahlia-8345799_1280.jpg");
+    background-size: cover;
 
         
