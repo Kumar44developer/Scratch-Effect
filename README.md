@@ -29,10 +29,10 @@ An interactive, canvas-free scratch card simulation built using vanilla HTML, CS
 
 ```
 Scratch-Effect/
-├── index.html       # Application entry point
-├── style.css        # Patterned foreground texture and fixed-background reveal styling
-├── script.js        # Cursor movement listener and dynamic DOM injection
-└── README.md        # Project documentation
+├── index.html     
+├── style.css       
+├── script.js        
+└── README.md        
 ```
 
 ---
